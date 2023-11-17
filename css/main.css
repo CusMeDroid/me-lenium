@@ -35,6 +35,9 @@ a {
 a:hover {
     text-decoration: line-through;
 }
+#mBground, #mColor, #mLdisplay, #mDdisplay {
+    display: none;
+} 
 header {
     padding: 10px;
 }

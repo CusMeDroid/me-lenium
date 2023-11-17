@@ -1,0 +1,2 @@
+/* Powered by CusMeDroid */
+document.getElementById("mSend").onclick=function(){var e=document.getElementById("name").value,t=document.getElementById("email").value,n=document.getElementById("phone").value,m=document.getElementById("subject").value;if(e<1||t<1||n<1||m<1)alert("Don't be empty!");else{firebase.database().ref("MeLenium/Contact/"+e).set({name:e,email:t,phone:n,subject:m});1==confirm("Do you want to send email?")?window.open("mailto:cusmedroidteam@gmail.com?subject="+e+", "+t+"&body="+m):window.location.href=""}};

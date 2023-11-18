@@ -1,0 +1,2 @@
+/* Powered by CusMeDroid */
+html,body{height:100%;margin:0;padding:0}.bgimg{background-image:url(mybg.gif);height:100%;background-position:center;background-size:cover;position:relative;color:#fff;font-family:"Courier New",Courier,monospace;font-size:25px}.middle{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center}.red{color:red}button{padding:10px 24px;font-size:18px;border:0;background:chartreuse;cursor:pointer}button:hover{background:green;color:#fff}#map{display:none;height:100%}

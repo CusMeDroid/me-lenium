@@ -10,17 +10,11 @@ Me Lenium is a collection of online media activists who present the latest news 
 |
 |
  ------ Theme (Hacker)
-|
-|
- --------- Firebase
-|
-|
- ------------ Code lang html, css, javascript
 ```
 
-# Screen Shoot
 [<img alt="Me Lenium" title="Me Lenium" width="100%" src="images/gif/main_001.gif" />](images/gif/main_001.gif)
 
+# Screen Shoot
 [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="23.9%" src="images/screenshot/ss_001.png" />](images/screenshot/ss_001.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="23.9%" src="images/screenshot/ss_002.png" />](images/screenshot/ss_002.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="23.9%" src="images/screenshot/ss_003.png" />](images/screenshot/ss_003.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="23.9%" src="images/screenshot/ss_004.png" />](images/screenshot/ss_004.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="23.9%" src="images/screenshot/ss_005.png" />](images/screenshot/ss_005.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="23.9%" src="images/screenshot/ss_007.png" />](images/screenshot/ss_007.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="23.9%" src="images/screenshot/ss_006.png" />](images/screenshot/ss_006.png)
 
 # Donate

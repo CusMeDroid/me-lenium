@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Me Lenium - Upload</title>
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
+    <meta name="description" content="Me Lenium is a collection of online media activists who present the latest news about the world, we condemn anyone the destruction of the world!">
+    <meta name="keywords" content="cusmedroid, cusme, iyortml, suryodwijayanto, melenium, me-lenium"/>
+    <meta name="author" content="Me Lenium">
+    <meta property="og:image" content="../favicon.ico">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="200">
+    <meta property="og:image:height" content="200">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <form class="form">
+    <label>
+      GitHub Access Token: <input required name="token" placeholder="ghp_xxxxxxx" />
+    </label>
+
+    <label>
+      GitHub Repo Owner: <input required name="owner" placeholder="" />
+    </label>
+      <label>
+      GitHub Repo Name: <input required name="repo" placeholder="" />
+    </label>
+      <button type="submit"> upload </button>
+      <div class="log"></div>
+    </form>
+
+    <div class="container">
+      <h5>Image info</h5>
+      <input type="file" accept="image/*" class="local" />
+      <button class="paste"> Paste from clipboard </button>
+      <div class="img"></div>
+    </div>
+    <script type="text/javascript" src="mescript.js"></script>
+    <script type="module">
+      import { Octokit } from "https://esm.sh/@octokit/core";
+    </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+label {
+  display: block;
+  margin-bottom: 15px;
+}
+
+input {
+  display: block;
+}
+
+body {
+  display: flex;
+}
+
+.container {
+  border: 1px solid #dedede;
+  margin-left: 10px;
+ align-items: center;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.container button {
+  margin: 15px 0;
+}
+
+.log {
+  color: #333;
+}

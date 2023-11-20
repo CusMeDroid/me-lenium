@@ -1,7 +1,7 @@
 // upload image to github
 function uploadImage(data) {
   return fetch(
-    `https://api.github.com/repos/${data.owner}/${data.repo}/contents/${data.name}`,
+    `https://api.github.com/repos/${data.owner}/${data.repo}/${data.name}`,
     {
       method: "PUT",
       headers: {

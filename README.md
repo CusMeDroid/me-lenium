@@ -12,21 +12,51 @@ Me Lenium is a collection of online media activists who present the latest news 
  ------ Theme (Hacker)
 |
 |
- --------- Admin
+ --------- Menu
 |         |
-|          --- Login
+|          --- Home
 |         |
-|          ------ Write Post
+|          ------ About
+|         |
+|          --------- Contact
+|         |
+|          ------------ Admin
 |
 |
- ------------ User (Visitor)
-             |
-              --- Read Post
-             |
-              ------ Share
-             |
-              --------- Comment
-              
+ ------------ Home
+|            |
+|             --- News
+|
+|
+ ------------ Views
+|            |
+|             --- Share
+|            |
+|             ------ Comment
+|
+|
+ ------------ About
+|            |
+|             --- Logo
+|            |
+|             ------ Web Description
+|
+|
+ ------------ Contact
+|            |
+|             --- Send Email/Messages
+|
+|
+ ------------ Admin
+|            |
+|             --- Login
+|            |
+|             ------ Write Post
+|
+|
+ --------- Recent
+          |
+           --- Tags
 ```
 
 # Live Attack

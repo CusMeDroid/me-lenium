@@ -20,7 +20,14 @@ Me Lenium is a collection of online media activists who present the latest news 
 |         |
 |          --------- Contact
 |         |
-|          ------------ Admin
+|          ----------- My IP
+|         |
+|          -------------- Admin
+|
+|
+ ------------ My IP Address
+|            |
+|             --- All Info/Location by IP Address
 |
 |
  ------------ Home

@@ -10,6 +10,23 @@ Me Lenium is a collection of online media activists who present the latest news 
 |
 |
  ------ Theme (Hacker)
+|
+|
+ --------- Admin
+|         |
+|          --- Login
+|         |
+|          ------ Write Post
+|
+|
+ ------------ User (Visitor)
+             |
+              --- Read Post
+             |
+              ------ Share
+             |
+              --------- Comment
+              
 ```
 
 # Live Attack

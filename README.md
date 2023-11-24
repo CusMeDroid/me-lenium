@@ -75,5 +75,22 @@ Me Lenium is a collection of online media activists who present the latest news 
 # Screen Shoot Mobile
 [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="32%" src="images/screenshoot/ss_m001.png" />](images/screenshoot/ss_m001.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="32%" src="images/screenshoot/ss_m002.png" />](images/screenshoot/ss_m002.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="32%" src="images/screenshoot/ss_m003.png" />](images/screenshoot/ss_m003.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="32%" src="images/screenshoot/ss_m004.png" />](images/screenshoot/ss_m004.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="32%" src="images/screenshoot/ss_m005.png" />](images/screenshoot/ss_m005.png) [<img alt="Me Lenium | Screenshot" title="Me Lenium | Screenshot" width="32%" src="images/screenshoot/ss_m006.png" />](images/screenshoot/ss_m006.png)
 
+# Who Is IP?
+
+> Terminal Mac OS
+```txt
+open -a "Google Chrome" "https://cusmedroid.github.io/me-lenium/myipaddress.html?view=example.com" --args '--new-window'
+```
+```txt
+open -a "Google Chrome" "https://cusmedroid.github.io/me-lenium/myipaddress.html?view=93.184.216.34" --args '--new-window'
+```
+> Windows Command Prompt
+```txt
+start chrome --new-window "https://cusmedroid.github.io/me-lenium/myipaddress.html?view=example.com"
+```
+```txt
+start chrome --new-window "https://cusmedroid.github.io/me-lenium/myipaddress.html?view=93.184.216.34"
+```
+
 # Donate
 [<img alt="Me Lenium | Donate" title="Me Lenium | Donate" width="30%" src="https://tulsapopkids.org/wp-content/uploads/2018/04/paypal-donate-button-high-quality-png.png" />](https://paypal.me/iyortml)

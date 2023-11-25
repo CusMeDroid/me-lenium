@@ -92,5 +92,8 @@ start chrome --new-window "https://cusmedroid.github.io/me-lenium/myipaddress.ht
 start chrome --new-window "https://cusmedroid.github.io/me-lenium/myipaddress.html?view=93.184.216.34"
 ```
 
+# Download
+[<img alt="Me Lenium | EXE" title="Me Lenium | Donate" width="30%" src="images/download/download-exe.png" />](https://github.com/CusMeDroid/me-lenium/raw/main/apps/Me%20Lenium.exe)
+
 # Donate
 [<img alt="Me Lenium | Donate" title="Me Lenium | Donate" width="30%" src="https://tulsapopkids.org/wp-content/uploads/2018/04/paypal-donate-button-high-quality-png.png" />](https://paypal.me/iyortml)

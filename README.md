@@ -28,6 +28,8 @@ Me Lenium is a collection of online media activists who present the latest news 
  ------------ My IP Address
 |            |
 |             --- All Info/Location by IP Address
+|            |
+|             ------ Search domain for all info
 |
 |
  ------------ Home

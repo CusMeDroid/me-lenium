@@ -70,9 +70,13 @@ Me Lenium is a collection of online media activists who present the latest news 
 
 # Instructions
 > On page home you will see the latest news which is randomized from 1-10 data.
+
 > On page views comments are turned off for data that is not available.
+
 > On page contact you can send us an email for a fast response.
+
 > On page admin you can't use this because it is admin only.
+
 > On page recent you will see a collection of data that uses the same tag.
 
 # Live Attack
